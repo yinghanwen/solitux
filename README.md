@@ -19,7 +19,7 @@ Solitux is a learning project
 
 ## Problem Feedback
 
-Mernel is a young kernel and is still under development. If you encounter a problem with Mernel, please do not assume that it is a bug in Mernel; first check if there is something wrong with your operation and see if there is a solution in the documentation and troubleshooting section.
+Solitux is a young kernel and is still under development. If you encounter a problem with Solitux, please do not assume that it is a bug in Solitux; first check if there is something wrong with your operation and see if there is a solution in the documentation and troubleshooting section.
 
 If you are sure it is a Solitux bug, please submit an issue in the Issues section of this repository, describing the problem in as much detail as possible and including information such as error messages, steps, and environment information such as error messages, steps, and environment information. This will help us to locate and fix the bug as soon as possible.
 
